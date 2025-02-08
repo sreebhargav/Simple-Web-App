@@ -2,7 +2,7 @@
 
 This project is a **Simple Web Application** (Patient EMR System) built with a **PostgreSQL** backend and deployed on **Amazon Web Services (AWS)** using **Elastic Beanstalk** and **RDS**. The infrastructure is designed to be **highly available**, **scalable**, and **secure**.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://simple-web-app1.us-east-1.elasticbeanstalk.com/patients/)
+[![Live Demo](http://img.shields.io/badge/Live-Demo-blue)](https://simple-web-app1.us-east-1.elasticbeanstalk.com/patients/)
 
 ---
 
